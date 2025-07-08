@@ -1,0 +1,4 @@
+transformers==4.18.0
+scikit-learn
+tqdm
+pandas
